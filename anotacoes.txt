@@ -1,0 +1,4 @@
+Mensagens de commit:
+"chore:" - alteração de algo que já existe
+"feature:" - nova funcionalidade
+"fix:" - correção
